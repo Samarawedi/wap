@@ -4,3 +4,7 @@ body{
 .blue{
     color: rgb(24, 104, 93);
 }
+.validation{
+    background-color: brown;
+    height: 100px;
+}
